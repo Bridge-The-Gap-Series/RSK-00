@@ -35,7 +35,7 @@ You have two options:
 
   </details>
 
-- Clone this repo or copy the contents of main.r into a local main.r. Being able to clone repos and commit changes from the terminal will be an expected knowledge over time 💪
+- Clone this repo or copy the contents of main.R into a local main.R. Being able to clone repos and commit changes from the terminal will be an expected knowledge over time 💪
 
 ## LEARNING
 Read through this [semi-tutorial](https://www.datamentor.io/r-programming/#first-r-program) for foundational knowledge.
@@ -64,4 +64,4 @@ See you next week!
 
 ## Submit assignment
 
-- You'll be required to update `main.r` with your code from the code editor on repl.it or your local code editor.
+- You'll be required to update `main.R` with your code from the code editor on repl.it or your local code editor.
